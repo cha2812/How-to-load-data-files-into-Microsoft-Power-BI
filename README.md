@@ -5,7 +5,7 @@ How to load data files into Power BI in order to visualize your data
 Welcome to the "How to Load Files into Microsoft Power BI" project repository! This repository serves as a comprehensive guide to help users efficiently load various types of files into Microsoft Power BI for practical data analysis and visualization. Whether you're a beginner or an experienced Power BI user, this repository provides step-by-step instructions and insights to enhance your data manipulation skills.
 
 ## Problem Statement
-The process of loading diverse data files into Microsoft Power BI can be challenging for many users. Using the repository, you can learn how to import and transform files into Power BI, such as CSV, Excel, and more. In this way, we aim to empower users to utilize Power BI to its full potential for data-driven decision-making.
+Loading diverse data files into Microsoft Power BI can be challenging for many users. Using the repository, you can learn how to import and transform files into Power BI, such as CSV, Excel, and more. In this way, we aim to empower users to utilize Power BI to its full potential for data-driven decision-making.
 
 
 ## Key Topics Covered
